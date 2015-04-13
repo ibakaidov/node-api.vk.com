@@ -1,0 +1,47 @@
+{
+  "name": "api.vk.com",
+  "version": "0.1.2",
+  "description": "very simple module for access vk.com api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "vk"
+  ],
+    
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibakaidov/node-api.vk.com"
+  },
+
+  "author": {
+    "name": "ibakaidov"
+  },
+  "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/ibakaidov/node-api.vk.com/issues"
+  },
+  "homepage": "https://github.com/ibakaidov/node-api.vk.com",
+  "_id": "api.vk.com@0.0.2",
+  "_shasum": "5046c27a76a809ff858952294bb751f15b2b51e6",
+  "_from": "api.vk.com@*",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "ibakaidov",
+    "email": "ibakaidov@ya.ru"
+  },
+  "maintainers": [
+    {
+      "name": "ibakaidov",
+      "email": "ibakaidov@ya.ru"
+    }
+  ],
+    
+  "dist": {
+    "shasum": "5046c27a76a809ff858952294bb751f15b2b51e6",
+    "tarball": "http://registry.npmjs.org/api.vk.com/-/api.vk.com-0.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/api.vk.com/-/api.vk.com-0.0.2.tgz"
+}
